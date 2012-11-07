@@ -1,1 +1,1 @@
-Replaces Apache httpd with nginx. Works on Amazon's Linux AMI's (Tomcat 7) Elastic Beanstalk.
+Replaces Apache httpd with nginx. Works on Amazon's Linux AMI's (Tomcat 7 (non-legacy)) Elastic Beanstalk.
